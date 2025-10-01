@@ -11,22 +11,25 @@ import orderRoutes from './routes/orderRoutes.js';
 const app = express();
 const PORT = process.env.PORT || 7000;
 
-connectDB();
-
-// Seed initial products with delay to ensure DB connection
-setTimeout(() => {
-  seedProducts();
-}, 3000);
+connectDB()
+  .then(() => {
+    setTimeout(() => {
+      seedProducts();
+    }, 5000);
+  })
+  .catch((error) => {
+    console.log(
+      'Database connection failed, but server will start anyway',
+      error
+    );
+  });
 
 app.use(
   cors({
-    origin: [
-      'http://localhost:5173',
-      'https://knovatorassignement-1-front.onrender.com',
-      process.env.CLIENT_URL,
-    ],
+    origin: process.env.CLIENT_URL,
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
   })
 );
 
