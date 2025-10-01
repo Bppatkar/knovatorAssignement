@@ -20,8 +20,13 @@ setTimeout(() => {
 
 app.use(
   cors({
-    origin: ['http://localhost:5173', 'http://localhost:3000'],
+    origin: [
+      'http://localhost:5173',
+      'https://knovatorassignement-1-front.onrender.com',
+      process.env.CLIENT_URL,
+    ],
     credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   })
 );
 
