@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Backend for a simple task management system",
+  "description": "E-Commerce backend API",
   "main": "server.js",
   "type": "module",
   "scripts": {
