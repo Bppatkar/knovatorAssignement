@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Smart Watch WH22-6 Fitno Pro",
+    "description": "Advanced smartwatch with health monitoring, GPS, and 7-day battery life",
+    "price": 454.00,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+    "category": "Health & Wellness",
+    "brand": "Xiaomi",
+    "rating": 4.5,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Tennis Rackets for Beginners",
+    "description": "Professional tennis racket set perfect for beginners and intermediate players",
+    "price": 30.99,
+    "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=500&h=500&fit=crop",
+    "category": "Sport",
+    "brand": "Demix",
+    "rating": 4.2,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Premium Boxing Gloves Pro",
+    "description": "Professional boxing gloves with premium leather and shock absorption",
+    "price": 275.57,
+    "image": "https://images.unsplash.com/photo-1599058917765-6609eda6d2d9?w=500&h=500&fit=crop",
+    "category": "Sport",
+    "brand": "Nike",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Club Kit Recurve Archery Set",
+    "description": "Complete recurve archery set for professional training and competitions",
+    "price": 48.99,
+    "image": "https://images.unsplash.com/photo-1602545665685-0db5dc0c1d3e?w=500&h=500&fit=crop",
+    "category": "Sport",
+    "brand": "Columbia",
+    "rating": 4.3,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Nike White Therma-Fit Hoodie",
+    "description": "Pullover training hoodie with advanced thermal technology for all weather conditions",
+    "price": 154.99,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop",
+    "category": "Fashion",
+    "brand": "Nike",
+    "rating": 4.6,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Lightweight White Nike Tech",
+    "description": "Lightweight training jacket with moisture-wicking technology and modern design",
+    "price": 210.00,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&h=500&fit=crop",
+    "category": "Fashion",
+    "brand": "Nike",
+    "rating": 4.4,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Wireless Bluetooth Headphones Pro",
+    "description": "Premium noise-cancelling wireless headphones with 30hr battery life",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+    "category": "Music",
+    "brand": "Sony",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Gaming Console Pro 4K",
+    "description": "Next-gen gaming console with 4K support and 1TB storage",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500&h=500&fit=crop",
+    "category": "Gaming",
+    "brand": "Sony",
+    "rating": 4.9,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Professional DSLR Camera",
+    "description": "24MP DSLR camera with 4K video recording and lens kit",
+    "price": 899.99,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&h=500&fit=crop",
+    "category": "Art",
+    "brand": "Canon",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Yoga Mat Premium",
+    "description": "Eco-friendly yoga mat with superior grip and cushioning",
+    "price": 45.99,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=500&fit=crop",
+    "category": "Health & Wellness",
+    "brand": "Adidas",
+    "rating": 4.5,
+    "deliveryOptions": ["Standard"]
+  }
+]
