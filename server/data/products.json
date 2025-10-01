@@ -19,21 +19,21 @@
     "rating": 4.2,
     "deliveryOptions": ["Standard"]
   },
-  {
+{
     "name": "Premium Boxing Gloves Pro",
     "description": "Professional boxing gloves with premium leather and shock absorption",
     "price": 275.57,
-    "image": "https://images.unsplash.com/photo-1599058917765-6609eda6d2d9?w=500&h=500&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=500&fit=crop",
     "category": "Sport",
     "brand": "Nike",
     "rating": 4.8,
     "deliveryOptions": ["Standard", "Pick Up"]
   },
-  {
+    {
     "name": "Club Kit Recurve Archery Set",
     "description": "Complete recurve archery set for professional training and competitions",
     "price": 48.99,
-    "image": "https://images.unsplash.com/photo-1602545665685-0db5dc0c1d3e?w=500&h=500&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571019614241-5e5f5c0b0d0a?w=500&h=500&fit=crop",
     "category": "Sport",
     "brand": "Columbia",
     "rating": 4.3,
@@ -98,5 +98,205 @@
     "brand": "Adidas",
     "rating": 4.5,
     "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "description": "Latest iPhone with advanced camera system and A17 Pro chip",
+    "price": 1199.99,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop",
+    "category": "Electronics",
+    "brand": "Apple",
+    "rating": 4.9,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Premium Android smartphone with S Pen and advanced AI features",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&h=500&fit=crop",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "description": "Professional laptop with M3 Max chip for ultimate performance",
+    "price": 2499.99,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop",
+    "category": "Electronics",
+    "brand": "Apple",
+    "rating": 4.9,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "PlayStation 5 Pro",
+    "description": "Next-gen gaming console with 8K support and ray tracing",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500&h=500&fit=crop",
+    "category": "Gaming",
+    "brand": "Sony",
+    "rating": 4.9,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Xbox Series X",
+    "description": "Powerful gaming console with 4K gaming and quick resume",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1621259182978-fbf832e9e4e9?w=500&h=500&fit=crop",
+    "category": "Gaming",
+    "brand": "Microsoft",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "AirPods Pro 3rd Gen",
+    "description": "Wireless earbuds with active noise cancellation and spatial audio",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=500&h=500&fit=crop",
+    "category": "Music",
+    "brand": "Apple",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Samsung QLED 4K TV",
+    "description": "65-inch 4K Smart TV with Quantum Dot technology",
+    "price": 999.99,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "rating": 4.6,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Dyson V15 Vacuum",
+    "description": "Cordless vacuum cleaner with laser dust detection",
+    "price": 749.99,
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+    "category": "Home",
+    "brand": "Dyson",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Nike Air Max 270",
+    "description": "Comfortable running shoes with Max Air cushioning",
+    "price": 150.00,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop",
+    "category": "Fashion",
+    "brand": "Nike",
+    "rating": 4.5,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Adidas Ultraboost 22",
+    "description": "Energy-return running shoes with Boost technology",
+    "price": 180.00,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&h=500&fit=crop",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "rating": 4.6,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Canon EOS R5",
+    "description": "Mirrorless camera with 45MP and 8K video recording",
+    "price": 3899.99,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+    "category": "Art",
+    "brand": "Canon",
+    "rating": 4.9,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Noise-canceling wireless headphones with 30hr battery",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop",
+    "category": "Music",
+    "brand": "Sony",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "description": "Advanced smartwatch with health monitoring and Always-On display",
+    "price": 429.00,
+    "image": "https://images.unsplash.com/photo-1434493652601-729d0b7e6e9d?w=500&h=500&fit=crop",
+    "category": "Health & Wellness",
+    "brand": "Apple",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Gaming Chair Pro",
+    "description": "Ergonomic gaming chair with lumbar support and adjustable armrests",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500&h=500&fit=crop",
+    "category": "Gaming",
+    "brand": "Razer",
+    "rating": 4.4,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "KitchenAid Stand Mixer",
+    "description": "Professional kitchen mixer with 10-speed settings",
+    "price": 449.99,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop",
+    "category": "Home",
+    "brand": "KitchenAid",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "iPad Pro 12.9-inch",
+    "description": "Powerful tablet with M2 chip and Liquid Retina XDR display",
+    "price": 1099.99,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+    "category": "Electronics",
+    "brand": "Apple",
+    "rating": 4.8,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "description": "Wireless noise-canceling headphones with 24hr battery",
+    "price": 329.99,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop",
+    "category": "Music",
+    "brand": "Bose",
+    "rating": 4.6,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "GoPro Hero 12",
+    "description": "Action camera with 5.3K video and HyperSmooth stabilization",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=500&h=500&fit=crop",
+    "category": "Sport",
+    "brand": "GoPro",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard", "Pick Up"]
+  },
+  {
+    "name": "Fitbit Charge 6",
+    "description": "Advanced fitness tracker with GPS and heart rate monitoring",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&h=500&fit=crop",
+    "category": "Health & Wellness",
+    "brand": "Fitbit",
+    "rating": 4.4,
+    "deliveryOptions": ["Standard"]
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "description": "Gaming console with 7-inch OLED screen and enhanced audio",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1556009114-5843d3ca8c64?w=500&h=500&fit=crop",
+    "category": "Gaming",
+    "brand": "Nintendo",
+    "rating": 4.7,
+    "deliveryOptions": ["Standard", "Pick Up"]
   }
 ]

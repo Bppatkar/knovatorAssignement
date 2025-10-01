@@ -21,9 +21,9 @@ try {
 const getProducts = async (req, res) => {
   try {
     const { category, brand, minPrice, maxPrice, rating, delivery } = req.query;
-    
+
     let filter = {};
-    
+
     if (category) filter.category = category;
     if (brand) filter.brand = brand;
     if (rating) filter.rating = { $gte: parseFloat(rating) };
@@ -47,10 +47,10 @@ const getFilters = async (req, res) => {
   try {
     const categories = await Product.distinct('category');
     const brands = await Product.distinct('brand');
-    
+
     res.json({
-      categories,
-      brands
+      categories: categories.filter(Boolean).sort(),
+      brands: brands.filter(Boolean).sort(),
     });
   } catch (error) {
     console.error('Error fetching filters:', error);
@@ -73,8 +73,4 @@ const seedProducts = async () => {
   }
 };
 
-export {
-  getProducts,
-  getFilters,
-  seedProducts
-};
+export { getProducts, getFilters, seedProducts };
