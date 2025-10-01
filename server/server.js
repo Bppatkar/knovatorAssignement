@@ -16,7 +16,7 @@ connectDB();
 // Seed initial products with delay to ensure DB connection
 setTimeout(() => {
   seedProducts();
-}, 1000);
+}, 3000);
 
 app.use(
   cors({
